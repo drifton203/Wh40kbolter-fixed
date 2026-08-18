@@ -1,0 +1,9 @@
+[
+{
+"modid": "wh40kbolter",
+"name": "WH40K Bolter Mod",
+"description": "Bolters, cargadores, municiones explosivas y el Armoury Imperial.",
+"version": "${version}",
+"mcversion": "${mcversion}",
+"authorList": [ "Usuario" ]
+}

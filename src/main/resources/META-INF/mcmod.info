@@ -1,0 +1,12 @@
+[{
+    "modid"      : "wh40kbolter",
+    "name"       : "WH40K Bolter Mod",
+    "description": "Adds a Warhammer 40K Bolter with upgrades and an Armoury com.wh40kbolter.boltermod.block.",
+    "version"    : "${version}",
+    "mcversion"  : "${mcversion}",
+    "url"        : "",
+    "authorList" : [],
+    "logoFile"   : "",
+    "screenshots": [],
+    "dependencies": []
+}]

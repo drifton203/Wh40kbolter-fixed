@@ -1,0 +1,20 @@
+# Bloques
+tile.wh40kbolter.armoury.name=Armoury
+
+# Items
+item.wh40kbolter.bolter_normal.name=Bolter
+item.wh40kbolter.bolter_tempestus.name=Bolter Tempestus
+item.wh40kbolter.bolter_elite.name=Bolter Elite
+item.wh40kbolter.magazine_normal.name=Cargador Normal
+item.wh40kbolter.magazine_expanded.name=Cargador Expandido
+item.wh40kbolter.magazine_elite.name=Cargador Elite
+item.wh40kbolter.ammo_normal.name=Municion Normal
+item.wh40kbolter.ammo_kraken.name=Municion Kraken
+item.wh40kbolter.ammo_imperatus.name=Municion Imperatus
+
+# Entidad
+entity.wh40kbolter.bolter_projectile.name=Bolter Round
+
+# Teclas
+key.reload=Recargar Bolter
+key.categories.wh40kbolter=WH40K Bolter Mod

@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "wh40bolter:blocks/armoury"
+  }
+}

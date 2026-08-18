@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "wh40kbolter:items/bolter_normal"
+  }
+}
